@@ -4,6 +4,6 @@ web:
     - src:/src
   command: ['serve', '-H', '0.0.0.0', '--port', '80']
   environment:
-    - VIRTUAL_HOST=whale.bwg.hu-berlin.de
+    - VIRTUAL_HOST=zeichen-und-symbole.bwg.hu-berlin.de
   expose:
     - "80"
