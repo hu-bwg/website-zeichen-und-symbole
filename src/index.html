@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <ul class="post-list">
+    {% for page in site.pages %}
+    <li>
+      {% if page.title %}
+      <a name="{{ page.title }}"
+      {{ page.content }}
+      {% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+
+</div>

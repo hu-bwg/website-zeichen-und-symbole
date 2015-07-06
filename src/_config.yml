@@ -1,0 +1,11 @@
+# Site settings
+title: Zeichen und Symbole
+email: bwg.zeichen-und-symbole@hu-berlin.de
+description: > # this means to ignore newlines until "baseurl:"
+  TBA
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://zeichen-und-symbole.bwg.hu-berlin.de"
+#port: 80
+
+# Build settings
+markdown: kramdown
