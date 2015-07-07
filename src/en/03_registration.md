@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Registration
-permalink: /registration/
+language: en
 ---
+
+# Registration
 
 TBA

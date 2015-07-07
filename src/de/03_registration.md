@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Anmeldung
-permalink: /registration/
+language: de
 ---
+
+# Anmeldung
 
 TBA

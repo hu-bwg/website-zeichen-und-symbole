@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Signs and Symbols
-permalink: /signs_and_symbols/
+language: en
 ---
 
 ## Cluster of Excellence »Image Knowledge Gestaltung. An Interdisciplinary Laboratory« at Humboldt-Universität zu Berlin

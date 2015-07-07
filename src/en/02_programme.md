@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Programme
-permalink: /p/
+language: en
 ---
+
+# Programme
 
 TBA

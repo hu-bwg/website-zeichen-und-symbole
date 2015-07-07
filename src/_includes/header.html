@@ -1,5 +1,4 @@
 <header class="site-header">
-
   <div class="wrapper">
 
     <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
@@ -15,8 +14,8 @@
 
       <div class="trigger">
         {% for page in site.pages %}
-          {% if page.title %}
-          <a class="page-link" href="#{{ page.title }}">{{ page.title }}</a>
+          {% if language == page.language and page.title %}
+          <a class="page-link" href="{{ site.url}}/{{ language }}.html#{{ page.title }}">{{ page.title }}</a>
           {% endif %}
         {% endfor %}
       </div>

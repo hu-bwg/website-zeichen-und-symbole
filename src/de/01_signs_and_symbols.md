@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Signs and Symbols
-permalink: /signs_and_symbols/
+title: Zeichen und Symbole
+language: de
 ---
 
-## <a name="de" />Cluster of Excellence »Image Knowledge Gestaltung. An Interdisciplinary Laboratory« at Humboldt-Universität zu Berlin
+## Cluster of Excellence »Image Knowledge Gestaltung. An Interdisciplinary Laboratory« at Humboldt-Universität zu Berlin
 
 # Zeichen und Symbole: Kleidung zwischen Bild und Realie
 
@@ -117,8 +117,8 @@ Prof. Dr. Philipp Zitzlsperger, Sabine de Günther M.A.
 
 ### Kontakt
 
-Exzellenzcluster »_Bild Wissen Gestaltung_. Ein interdisziplinäres Labor« 
-Humboldt-Universität zu Berlin, 
+Exzellenzcluster »_Bild Wissen Gestaltung_. Ein interdisziplinäres Labor«
+Humboldt-Universität zu Berlin,
 Sophienstr. 22a
 10178 Berlin
 

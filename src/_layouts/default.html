@@ -1,3 +1,4 @@
+{% capture language %}{{ page.path | split:'.' | first }}{% endcapture %}
 <!DOCTYPE html>
 <html>
 
@@ -5,7 +6,7 @@
 
   <body>
 
-    {% include header.html %}
+    {% include header.html language=language %}
 
     <div class="page-content">
       <div class="wrapper">

@@ -1,0 +1,23 @@
+<div class="home">
+
+  <div style="float: right; margin: 10px; font: smallest">
+    {% case language %}
+    {% when 'de' %}
+    <a href="/en.html">english / englisch</a>
+    {% when 'en' %}
+    <a href="/de.html">deutsch / german</a>
+    {% endcase %}
+  </div>
+
+  <div class="page-list">
+    {% for page in site.pages %}
+      {% if page.language == language and page.title%}
+        <div class="content-block">
+        <a name="{{ page.title }}"></a>
+        {{ page.content }}
+        </div>
+      {% endif %}
+    {% endfor %}
+  </div>
+
+</div>
