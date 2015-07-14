@@ -4,6 +4,8 @@ title: Signs and Symbols
 language: en
 ---
 
+**The _Call for Paper_ is closed.**
+
 ### Cluster of Excellence »Image Knowledge Gestaltung. An Interdisciplinary Laboratory« at Humboldt-Universität zu Berlin
 
 # Signs and Symbols: Dress at the Intersection between Image and Realia
