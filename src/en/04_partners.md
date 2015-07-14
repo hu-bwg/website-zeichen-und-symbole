@@ -4,24 +4,13 @@ title: Partners
 language: en
 ---
 
-# Partners
-
 ## Funded by:
 
-<!--
-![Logo Exzellenzcluster Bild Wissen Gestaltung](../images/bwg.png){: width="300px"}
--->
-[Exzellenzcluster Bild Wissen Gestaltung](https://www.interdisciplinary-laboratory.hu-berlin.de/)
+![Logo Exzellenzcluster Bild Wissen Gestaltung](../images/bwg.png){: width="248px"}
 
-## Partners
+## Partners:
 
-<!--
-![Logo Hochschule Fresenius AMD](../images/amd.png){: width="300px"}
-![Logo Netzwerk Mode Textil](../images/nmt.png){: width="300px"}
--->
-Hochschule Fresenius AMD
-
-[Netzwerk Mode Textil](http://www.netzwerk-mode-textil.de/)
+![Logo Hochschule Fresenius AMD](../images/amd.png){: width="248px" margin-right="10px"} ![Logo Netzwerk Mode Textil](../images/nmt.png){: width="248px"}
 
 ## Concept and Organization
 

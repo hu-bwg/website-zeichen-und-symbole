@@ -15,9 +15,15 @@
       <div class="trigger">
         {% for page in site.pages %}
           {% if language == page.language and page.title %}
-          <a class="page-link" href="{{ site.url}}/{{ language }}.html#{{ page.title }}">{{ page.title }}</a>
+          <a class="page-link" href="/{{ language }}.html#{{ page.title }}">{{ page.title }}</a>
           {% endif %}
         {% endfor %}
+        {% case language %}
+        {% when 'de' %}
+        <a href="/en.html" class="page-link">&rarr; English</a>
+        {% when 'en' %}
+        <a href="/de.html" class="page-link">&rarr; Deutsch</a>
+        {% endcase %}
       </div>
     </nav>
 

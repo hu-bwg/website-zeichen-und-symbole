@@ -2,20 +2,20 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 @charset "utf-8";
-
-
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,300,400italic,400);
+@import url(http://fonts.googleapis.com/css?family=Playfair+Display:700);
 
 // Our variables
-$base-font-family: Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
+$base-font-family: "Open Sans", Helvetica, Arial, sans-serif;
+$base-font-size:   18px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
 $spacing-unit:     30px;
 
-$text-color:       #eee;
-$background-color: #222;
-$brand-color:      #d5851d;
+$text-color:       #111;
+$background-color: #fff;
+$brand-color:      #F59219;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
@@ -50,3 +50,35 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+
+h1 {
+   font-size: 40px;
+   line-height: 52px;
+   margin-bottom: 25px;
+   font-family: "Playfair Display";
+   font-weight: 700;
+   font-style: normal;
+}
+
+p {
+   font-size: 21px;
+   line-height: 32px;
+   font-family: "Open Sans";
+   font-weight: 300;
+   font-style: normal;
+}
+
+a.site-title {
+  display: none;
+}
+
+div.trigger {
+  margin: auto;
+}
+
+.site-nav {
+  float: none;
+  margin: auto;
+  line-height: 56px;
+  text-align: center;
+}

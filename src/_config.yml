@@ -9,3 +9,7 @@ port: 80
 
 # Build settings
 markdown: kramdown
+
+kramdown:
+  auto_ids: false
+  

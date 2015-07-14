@@ -4,11 +4,11 @@ title: Signs and Symbols
 language: en
 ---
 
-## Cluster of Excellence »Image Knowledge Gestaltung. An Interdisciplinary Laboratory« at Humboldt-Universität zu Berlin
+### Cluster of Excellence »Image Knowledge Gestaltung. An Interdisciplinary Laboratory« at Humboldt-Universität zu Berlin
 
 # Signs and Symbols: Dress at the Intersection between Image and Realia
 
-## Berlin, February 18–20, 2016
+### Berlin, February 18–20, 2016
 
 
 Dress research is a relatively young academic discipline and its methods are dynamic, drawing from the fields of visual
