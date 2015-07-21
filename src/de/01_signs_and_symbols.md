@@ -9,7 +9,7 @@ Der _Call for Papers_ ist beendet.
 ### Exzellenzcluster »Bild Wissen Gestaltung. Ein interdisziplinäres Labor« an der Humboldt-Universität zu Berlin
 {: .header-line}
 
-# Zeichen und Symbole: Kleidung zwischen Bild und Realie
+# # Zeichen und Symbole: Kleidung zwischen Bild und Realie
 
 ### Berlin, 18. – 20. Februar 2016
 {: .header-line}
