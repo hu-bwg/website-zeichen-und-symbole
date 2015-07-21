@@ -6,7 +6,7 @@ language: de
 
 **Der _Call for Paper_ ist beendet.**
 
-## Cluster of Excellence »Image Knowledge Gestaltung. An Interdisciplinary Laboratory« at Humboldt-Universität zu Berlin
+## Cluster of Excellence »Image Knowledge Gestaltung. An Interdisciplinary Laboratory«, Humboldt-Universität zu Berlin
 
 # Zeichen und Symbole: Kleidung zwischen Bild und Realie
 

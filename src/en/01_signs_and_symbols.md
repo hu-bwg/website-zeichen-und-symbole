@@ -6,7 +6,7 @@ language: en
 
 **The _Call for Paper_ is closed.**
 
-### Cluster of Excellence »Image Knowledge Gestaltung. An Interdisciplinary Laboratory« at Humboldt-Universität zu Berlin
+### Cluster of Excellence »Image Knowledge Gestaltung. An Interdisciplinary Laboratory«, Humboldt-Universität zu Berlin
 
 # Signs and Symbols: Dress at the Intersection between Image and Realia
 
@@ -24,9 +24,7 @@ conference. “Cross-reading,” the juxtaposition of different source texts, re
 thorough knowledge of the different research disciplines. Common to all the disciplines engaged in dress research is the
 question of how to define and delineate the image-dress-fashion triad. In the framework of this multidisciplinary
 conference, we want to bring about a reflection on applied methods and, with it, a collective self-positioning of the
-disciplines with regard to dress.
-
-The overarching aim of the conference is to create synergies in the research on visual objects, dress, and accessories
+disciplines with regard to dress. The overarching aim of the conference is to create synergies in the research on visual objects, dress, and accessories
 by bringing together scholars from a range of disciplines in the humanities and empirical sciences whose research
 engages themes of dress and fashion. The focus of discussion will be on methodical and methodological questions
 surrounding the reconstruction of dress and its significance in visual and textual media.
