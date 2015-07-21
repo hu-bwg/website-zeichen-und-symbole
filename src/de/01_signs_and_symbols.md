@@ -4,11 +4,15 @@ title: Zeichen und Symbole
 language: de
 ---
 
-## Cluster of Excellence »Image Knowledge Gestaltung. An Interdisciplinary Laboratory« at Humboldt-Universität zu Berlin
+Der _Call for Papers_ ist beendet.
+
+### Exzellenzcluster »Bild Wissen Gestaltung. Ein interdisziplinäres Labor« an der Humboldt-Universität zu Berlin
+{: .header-line}
 
 # Zeichen und Symbole: Kleidung zwischen Bild und Realie
 
-## Berlin, 18.02.–20.02.2016
+### Berlin, 18. – 20. Februar 2016
+{: .header-line}
 
 Die vestimentären Wissenschaften sind relativ jung und ihre Methoden oszillieren zwischen den Disziplinen der Bild-,
 Sprach- und Kulturwissenschaft bzw. den empirisch-materialkundlichen Analysen und deren Deutungen. Während Mode in Bild
@@ -36,21 +40,21 @@ Welche Aussagekraft haben sie in Bezug auf Identifikationsmuster zwischen Distin
 Verhaltenscodices? Und wie wirken sie sich auf die symbolische Bedeutung der Kleidung aus hinsichtlich verschiedener
 Gesichtspunkte:
 
-1. Norm und Form: Kleidervorschriften, Zeremonialbücher und Polizeiordnungen weisen darauf hin, dass das obrigkeitliche
+1. **Norm und Form:** Kleidervorschriften, Zeremonialbücher und Polizeiordnungen weisen darauf hin, dass das obrigkeitliche
 Streben nach Normdurchsetzung eine Zunahme und Ausdifferenzierung der Verordnungen und Strafen voraussetzte, die nicht
 nur die Kleider- und Luxusgesetze betraf, sondern die gesamte Steuerung der Gesellschaft. Unter diesen
 rechtshistorischen Vorzeichen interessieren Ursache und Wirkung der Kleiderverordnungen.
-2. Kulturtransfer: Kleidung bzw. Mode waren wichtige Handelsgüter, die in den Kleiderstil anderer höfischer
+2. **Kulturtransfer:** Kleidung bzw. Mode waren wichtige Handelsgüter, die in den Kleiderstil anderer höfischer
 Gesellschaften aufgenommen und dort umgedeutet wurden. Kleider- und Modetransfer entfaltete sich zwischen Anpassung
 durch Assimilation und Distinktion durch Anverwandlung. Konkret gesprochen: Welche formalen und semantischen
 Veränderungen erfuhr die Pariser Mode des Absolutismus in den Nachbarländern, wie wurde das holländische Regenten-Kostüm
 im 17. Jahrhundert in den angrenzenden Ländern adaptiert oder welche Elemente der englischen Mode aus der zweiten
 Hälfte des 18. Jahrhunderts fanden Anwendung?
-3. Hybridkleidung: Es gilt, erhöhte Aufmerksamkeit den Bildgestaltern von Hybridkleidung zu widmen, die in vormoderner
+3. **Hybridkleidung:** Es gilt, erhöhte Aufmerksamkeit den Bildgestaltern von Hybridkleidung zu widmen, die in vormoderner
 Malerei und Skulptur dezidiert unauthentische Vestimente arrangierten. In Antonis van Dycks Porträts etwa tragen Frauen
 bis heute missverstandene Fantasiegewänder und in den Reiterstandbildern und Herrscherbüsten von Donatello bis Schlüter
 wagten die Künstler unauthentische Kostümarrangements, die schließlich in den akademischen »Kostümstreit« mündeten. 
-4. Karikatur: Semantisch aufgeladen sind die überzeichnenden Modeformen in der Gattung der Karikatur, die zwischen
+4. **Karikatur:** Semantisch aufgeladen sind die überzeichnenden Modeformen in der Gattung der Karikatur, die zwischen
 Nationalismen, Gesellschaftskritik und Genderproblem oszillieren. Zu erörtern wäre also grundsätzlich, ob der
 kunsthistorische Ansatz der ikonographisch-ikonologischen Analyse des Bildmotivs dem Kleidermotiv und seiner kulturellen
 Bedeutung bzw. der Rekonstruktion einer »Materiellen Kultur« gerecht werden kann.
@@ -101,29 +105,18 @@ in der Wissenschaft uneinheitliche Neujustierungen erfuhr, die einer kritischen 
 Terrain der methodischen Unsicherheiten gilt es, Quellen (Bild- und Schriftquellen) und Objekte/Artefakte (Kleidung,
 Accessoires) zusammen zu führen und Wege ihrer Analyse und Deutung zu finden
 
-
-### Call for Abstracts
-
-**Eingeladen sind Kunst- und Bildwissenschaftler, Modewissenschaftler, Historiker, Kulturwissenschaftler, Archäologen,
-Soziologen, Textilforscher und -restauratoren ebenso wie Literaturwissenschaftler, Anthropologen, Juristen und
-Wirtschaftswissenschaftler, ihren Blick auf die Entwicklung und Bedeutung von Mode und Bekleidung vorzustellen.**
-
-Bitte reichen Sie bis zum 15. Juni 2015 eine aussagekräftige Zusammenfassung (Abstract) Ihres Beitrags ein (Umfang:
-maximal 3.000 Zeichen).
-
-### Konzept und Organisation
+## Konzept und Organisation
 
 Prof. Dr. Philipp Zitzlsperger, Sabine de Günther M.A.
 
-### Kontakt
+## Kontakt
 
-Exzellenzcluster »_Bild Wissen Gestaltung_. Ein interdisziplinäres Labor«
-Humboldt-Universität zu Berlin,
-Sophienstr. 22a
-10178 Berlin
+Exzellenzcluster »_Bild Wissen Gestaltung_. Ein interdisziplinäres Labor«  
+Humboldt-Universität zu Berlin,  
+Sophienstr. 22a  
+10178 Berlin  
 
-[www.interdisciplinary-laboratory.hu-berlin.de](http://www.interdisciplinary-laboratory.hu-berlin.de)
-
-E-Mail: bwg.zeichen-und-symbole@hu-berlin.de
+[interdisciplinary-laboratory.hu-berlin.de](http://www.interdisciplinary-laboratory.hu-berlin.de)  
+E-Mail: [bwg.zeichen-und-symbole@hu-berlin.de](mailto:bwg.zeichen-und-symbole@hu-berlin.de)
 
 [Logo Exzellenzcluster Bild Wissen Gestaltung](images/bwg.png)
