@@ -7,3 +7,5 @@ language: en
 # Registration
 
 TBA
+
+![Separator](../images/separator.png)

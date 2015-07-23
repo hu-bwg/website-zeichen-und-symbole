@@ -7,3 +7,5 @@ language: en
 # Programme
 
 TBA
+
+![Separator](../images/separator.png)

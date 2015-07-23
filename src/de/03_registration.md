@@ -7,3 +7,5 @@ language: de
 # Anmeldung
 
 TBA
+
+![Separator](../images/separator.png)
