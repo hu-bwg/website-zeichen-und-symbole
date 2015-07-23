@@ -6,10 +6,10 @@ language: en
 
 The _call for papers_ is now closed.
 
-### Cluster of Excellence »Image Knowledge Gestaltung. An Interdisciplinary Laboratory« at Humboldt-Universität zu Berlin
-{: .header-line}
+# Signs and Symbols. Dress at the Intersection between Image and Realia.
 
-# Signs and Symbols: Dress at the Intersection between Image and Realia
+### Cluster of Excellence »Image Knowledge Gestaltung. An Interdisciplinary Laboratory«, Humboldt-Universität zu Berlin
+{: .header-line}
 
 ### Berlin, February 18 — 20, 2016
 {: .header-line}

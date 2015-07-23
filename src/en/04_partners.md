@@ -6,7 +6,7 @@ language: en
 
 ## Funded by:
 
-![Logo Exzellenzcluster Bild Wissen Gestaltung](../images/bwg.png){: width="248px"}
+![Logo Cluster of Excellency Image Knowledge Gestaltung](../images/bwg.jpg){: width="500"}
 
 ## Partners:
 

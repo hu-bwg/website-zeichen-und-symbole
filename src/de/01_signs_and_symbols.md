@@ -6,10 +6,10 @@ language: de
 
 Der _Call for Papers_ ist beendet.
 
-### Exzellenzcluster »Bild Wissen Gestaltung. Ein interdisziplinäres Labor« an der Humboldt-Universität zu Berlin
-{: .header-line}
+# Zeichen und Symbole. Kleidung zwischen Bild und Realie.
 
-# # Zeichen und Symbole: Kleidung zwischen Bild und Realie
+### Exzellenzcluster »Bild Wissen Gestaltung. Ein interdisziplinäres Labor«,  Humboldt-Universität zu Berlin
+{: .header-line}
 
 ### Berlin, 18. – 20. Februar 2016
 {: .header-line}
@@ -118,5 +118,3 @@ Sophienstr. 22a
 
 [interdisciplinary-laboratory.hu-berlin.de](http://www.interdisciplinary-laboratory.hu-berlin.de)  
 E-Mail: [bwg.zeichen-und-symbole@hu-berlin.de](mailto:bwg.zeichen-und-symbole@hu-berlin.de)
-
-[Logo Exzellenzcluster Bild Wissen Gestaltung](images/bwg.png)

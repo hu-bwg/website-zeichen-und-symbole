@@ -6,7 +6,7 @@ language: de
 
 ## Eine Tagung des
 
-![Logo Exzellenzcluster Bild Wissen Gestaltung](../images/bwg.png){: width="248px"}
+![Logo Exzellenzcluster Bild Wissen Gestaltung](../images/bwg.jpg){: width="500"}
 
 ## Partner:
 

@@ -113,9 +113,10 @@ a.page-link:hover {
 h3.header-line {
   font-style: italic;
   color: #9ABAA8;
+  font-weight: 700;
 }
 
-h1 ~ h3 {
+h3 ~ h3 {
   margin-bottom: 50px;
 }
 
