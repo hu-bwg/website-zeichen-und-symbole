@@ -6,7 +6,9 @@ language: en
 
 The _call for papers_ is now closed.
 
-# Signs and Symbols. Dress at the Intersection between Image and Realia.
+# Signs and Symbols. 
+
+## **Dress at the Intersection between Image and Realia.**
 
 ### Cluster of Excellence »Image Knowledge Gestaltung. An Interdisciplinary Laboratory«, Humboldt-Universität zu Berlin
 {: .header-line}
@@ -40,10 +42,21 @@ visual representations. Research on the repertoire of sartorial symbolism relies
 What do these sources say about patterns of identification, ranging from distinction to conformity, within the context
 of normative behavioral codes? And how do they affect the symbolic meaning of dress from the following perspectives?
 
-1. **Norm and form:** Clothing regulations, ceremonial records, and police regulations show that ruling authorities’ efforts to enforce social norms required the development of ever more, and increasingly differentiated regulations and penalties—not only in the area of clothing regulations and sumptuary laws but also for the governance of society as a whole. Taking this legal history perspective as a point of departure, the conference will focus on the causes and impacts of clothing regulations.
-2. **Cultural transfer:** Clothing and fashion were important trade commodities, which were also absorbed into the clothing styles of other courtly societies, although not without reinterpretation. Dress and fashion transfer unfolded on a spectrum ranging from conformity by means of assimilation to the establishment of distinction by means of adaptation. More concretely: What formal and semantic changes did the Parisian fashion of absolutism go through in neighboring countries? How were the costumes of Dutch regents of the 17th century adapted as they were incorporated into the dress of neighboring countries, and what elements of late 18th century English fashion were adopted?
-3. **Hybrid dress:** Special attention will be paid to the designers of hybrid dress, who conceived decidedly inauthentic vestments in early modern painting and sculpture. Anthonis van Dyck’s portraits, for instance, depict women in fanciful garments that are not adequately understood to this day, and the inauthentic costumes depicted by artists from Donatello to Schlüter in equestrian statues and busts of rulers led ultimately to the academic “costume dispute.”
-4. **Caricature:** The exaggerated forms of fashion found in caricature as a genre are semantically loaded, shifting between nationalisms, social critique, and gender problems. The conference will therefore explore on a fundamental level whether the art historical approach of iconographic-iconological analysis of visual motifs can do justice to the motif of dress and its cultural meanings or to the reconstruction of a “material culture.”
+### Norm and form 
+
+Clothing regulations, ceremonial records, and police regulations show that ruling authorities’ efforts to enforce social norms required the development of ever more, and increasingly differentiated regulations and penalties—not only in the area of clothing regulations and sumptuary laws but also for the governance of society as a whole. Taking this legal history perspective as a point of departure, the conference will focus on the causes and impacts of clothing regulations.
+
+### Cultural transfer
+
+Clothing and fashion were important trade commodities, which were also absorbed into the clothing styles of other courtly societies, although not without reinterpretation. Dress and fashion transfer unfolded on a spectrum ranging from conformity by means of assimilation to the establishment of distinction by means of adaptation. More concretely: What formal and semantic changes did the Parisian fashion of absolutism go through in neighboring countries? How were the costumes of Dutch regents of the 17th century adapted as they were incorporated into the dress of neighboring countries, and what elements of late 18th century English fashion were adopted?
+
+### Hybrid dress
+
+Special attention will be paid to the designers of hybrid dress, who conceived decidedly inauthentic vestments in early modern painting and sculpture. Anthonis van Dyck’s portraits, for instance, depict women in fanciful garments that are not adequately understood to this day, and the inauthentic costumes depicted by artists from Donatello to Schlüter in equestrian statues and busts of rulers led ultimately to the academic “costume dispute.”
+
+### Caricature
+
+The exaggerated forms of fashion found in caricature as a genre are semantically loaded, shifting between nationalisms, social critique, and gender problems. The conference will therefore explore on a fundamental level whether the art historical approach of iconographic-iconological analysis of visual motifs can do justice to the motif of dress and its cultural meanings or to the reconstruction of a “material culture.”
 
 The planned conference will take up the critique of logocentric iconology to explore a hermeneutic approach to the
 representation of things based on visual representations of dress. It will use these depictions as a means of examining
@@ -94,7 +107,9 @@ and textual material) and objects/artefacts (dress, accessories) and to find way
 
 ## Concept and Organization
 
-Prof. Dr. Philipp Zitzlsperger, Sabine de Günther M.A.
+Prof. Dr. Philipp Zitzlsperger, Sabine de Günther M.A.  
+
+E-Mail: [bwg.zeichen-und-symbole@hu-berlin.de](mailto:bwg.zeichen-und-symbole@hu-berlin.de)
 
 ## Contact
 
@@ -104,5 +119,3 @@ Sophienstrasse 22a
 10178 Berlin  
 
 [interdisciplinary-laboratory.hu-berlin.de](http://www.interdisciplinary-laboratory.hu-berlin.de)
-
-E-Mail: [bwg.zeichen-und-symbole@hu-berlin.de](mailto:bwg.zeichen-und-symbole@hu-berlin.de)

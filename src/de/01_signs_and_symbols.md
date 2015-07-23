@@ -6,7 +6,9 @@ language: de
 
 Der _Call for Papers_ ist beendet.
 
-# Zeichen und Symbole. Kleidung zwischen Bild und Realie.
+# Zeichen und Symbole. 
+
+## **Kleidung zwischen Bild und Realie.**
 
 ### Exzellenzcluster »Bild Wissen Gestaltung. Ein interdisziplinäres Labor«,  Humboldt-Universität zu Berlin
 {: .header-line}
@@ -40,21 +42,32 @@ Welche Aussagekraft haben sie in Bezug auf Identifikationsmuster zwischen Distin
 Verhaltenscodices? Und wie wirken sie sich auf die symbolische Bedeutung der Kleidung aus hinsichtlich verschiedener
 Gesichtspunkte:
 
-1. **Norm und Form:** Kleidervorschriften, Zeremonialbücher und Polizeiordnungen weisen darauf hin, dass das obrigkeitliche
+### Norm und Form
+
+Kleidervorschriften, Zeremonialbücher und Polizeiordnungen weisen darauf hin, dass das obrigkeitliche
 Streben nach Normdurchsetzung eine Zunahme und Ausdifferenzierung der Verordnungen und Strafen voraussetzte, die nicht
 nur die Kleider- und Luxusgesetze betraf, sondern die gesamte Steuerung der Gesellschaft. Unter diesen
 rechtshistorischen Vorzeichen interessieren Ursache und Wirkung der Kleiderverordnungen.
-2. **Kulturtransfer:** Kleidung bzw. Mode waren wichtige Handelsgüter, die in den Kleiderstil anderer höfischer
+
+### Kulturtransfer
+
+Kleidung bzw. Mode waren wichtige Handelsgüter, die in den Kleiderstil anderer höfischer
 Gesellschaften aufgenommen und dort umgedeutet wurden. Kleider- und Modetransfer entfaltete sich zwischen Anpassung
 durch Assimilation und Distinktion durch Anverwandlung. Konkret gesprochen: Welche formalen und semantischen
 Veränderungen erfuhr die Pariser Mode des Absolutismus in den Nachbarländern, wie wurde das holländische Regenten-Kostüm
 im 17. Jahrhundert in den angrenzenden Ländern adaptiert oder welche Elemente der englischen Mode aus der zweiten
 Hälfte des 18. Jahrhunderts fanden Anwendung?
-3. **Hybridkleidung:** Es gilt, erhöhte Aufmerksamkeit den Bildgestaltern von Hybridkleidung zu widmen, die in vormoderner
+
+### Hybridkleidung 
+
+Es gilt, erhöhte Aufmerksamkeit den Bildgestaltern von Hybridkleidung zu widmen, die in vormoderner
 Malerei und Skulptur dezidiert unauthentische Vestimente arrangierten. In Antonis van Dycks Porträts etwa tragen Frauen
 bis heute missverstandene Fantasiegewänder und in den Reiterstandbildern und Herrscherbüsten von Donatello bis Schlüter
 wagten die Künstler unauthentische Kostümarrangements, die schließlich in den akademischen »Kostümstreit« mündeten. 
-4. **Karikatur:** Semantisch aufgeladen sind die überzeichnenden Modeformen in der Gattung der Karikatur, die zwischen
+
+### Karikatur
+
+Semantisch aufgeladen sind die überzeichnenden Modeformen in der Gattung der Karikatur, die zwischen
 Nationalismen, Gesellschaftskritik und Genderproblem oszillieren. Zu erörtern wäre also grundsätzlich, ob der
 kunsthistorische Ansatz der ikonographisch-ikonologischen Analyse des Bildmotivs dem Kleidermotiv und seiner kulturellen
 Bedeutung bzw. der Rekonstruktion einer »Materiellen Kultur« gerecht werden kann.
@@ -107,7 +120,9 @@ Accessoires) zusammen zu führen und Wege ihrer Analyse und Deutung zu finden
 
 ## Konzept und Organisation
 
-Prof. Dr. Philipp Zitzlsperger, Sabine de Günther M.A.
+Prof. Dr. Philipp Zitzlsperger, Sabine de Günther M.A.  
+
+E-Mail: [bwg.zeichen-und-symbole@hu-berlin.de](mailto:bwg.zeichen-und-symbole@hu-berlin.de)
 
 ## Kontakt
 
@@ -117,4 +132,3 @@ Sophienstr. 22a
 10178 Berlin  
 
 [interdisciplinary-laboratory.hu-berlin.de](http://www.interdisciplinary-laboratory.hu-berlin.de)  
-E-Mail: [bwg.zeichen-und-symbole@hu-berlin.de](mailto:bwg.zeichen-und-symbole@hu-berlin.de)
