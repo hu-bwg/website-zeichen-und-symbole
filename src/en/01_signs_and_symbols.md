@@ -4,8 +4,6 @@ title: Signs and Symbols
 language: en
 ---
 
-**The _Call for Paper_ is closed.**
-
 ### Cluster of Excellence »Image Knowledge Gestaltung. An Interdisciplinary Laboratory«, Humboldt-Universität zu Berlin
 
 # Signs and Symbols: Dress at the Intersection between Image and Realia
@@ -91,13 +89,12 @@ and textual material) and objects/artefacts (dress, accessories) and to find way
 
 ### Call for Abstracts
 
-**We invite scholars in art history, visual culture, fashion, history, cultural studies, archaeology, sociology, and
+We invite scholars in art history, visual culture, fashion, history, cultural studies, archaeology, sociology, and
 experts in textiles research and conservation, as well as literary scholars, anthropologists, legal scholars, and
 economists to present their diverse perspectives on the development and significance of fashion and dress at the
-conference.**
+conference.
 
-Please submit your proposal of ca. 3.000 characters as well as contact details by June 15, 2015.
-Languages of the conference are: German and English.
+The Call for Abstracts is closed.
 
 ### Concept and Organization
 
@@ -107,11 +104,8 @@ Prof. Dr. Philipp Zitzlsperger, Sabine de Günther M.A.
 
 Cluster of Excellence »_Image Knowledge Gestaltung_. An interdisciplinary Laboratory«
 Humboldt-Universität zu Berlin
-Sophienstrasse 22a
-10178 Berlin
+Unter den Linden 6
+10099 Berlin
 
 [www.interdisciplinary-laboratory.hu-berlin.de](http://www.interdisciplinary-laboratory.hu-berlin.de)
-
-E-Mail: bwg.zeichen-und-symbole@hu-berlin.de
-
-[Logo Exzellenzcluster Bild Wissen Gestaltung](images/bwg.png)
+[bwg.zeichen-und-symbole@hu-berlin.de](mailto:bwg.zeichen-und-symbole@hu-berlin.de)

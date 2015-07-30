@@ -6,4 +6,4 @@ language: en
 
 # Registration
 
-TBA
+Coming soon

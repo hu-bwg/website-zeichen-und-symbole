@@ -4,7 +4,6 @@ title: Zeichen und Symbole
 language: de
 ---
 
-**Der _Call for Paper_ ist beendet.**
 
 ## Cluster of Excellence »Image Knowledge Gestaltung. An Interdisciplinary Laboratory«, Humboldt-Universität zu Berlin
 
@@ -106,12 +105,11 @@ Accessoires) zusammen zu führen und Wege ihrer Analyse und Deutung zu finden
 
 ### Call for Abstracts
 
-**Eingeladen sind Kunst- und Bildwissenschaftler, Modewissenschaftler, Historiker, Kulturwissenschaftler, Archäologen,
+Eingeladen sind Kunst- und Bildwissenschaftler, Modewissenschaftler, Historiker, Kulturwissenschaftler, Archäologen,
 Soziologen, Textilforscher und -restauratoren ebenso wie Literaturwissenschaftler, Anthropologen, Juristen und
-Wirtschaftswissenschaftler, ihren Blick auf die Entwicklung und Bedeutung von Mode und Bekleidung vorzustellen.**
+Wirtschaftswissenschaftler, ihren Blick auf die Entwicklung und Bedeutung von Mode und Bekleidung vorzustellen.
 
-Bitte reichen Sie bis zum 15. Juni 2015 eine aussagekräftige Zusammenfassung (Abstract) Ihres Beitrags ein (Umfang:
-maximal 3.000 Zeichen).
+Der Call for Abstracts ist beendet.
 
 ### Konzept und Organisation
 
@@ -119,13 +117,10 @@ Prof. Dr. Philipp Zitzlsperger, Sabine de Günther M.A.
 
 ### Kontakt
 
-Exzellenzcluster »_Bild Wissen Gestaltung_. Ein interdisziplinäres Labor«
-Humboldt-Universität zu Berlin,
-Sophienstr. 22a
-10178 Berlin
+Exzellenzcluster »_Bild Wissen Gestaltung_. Ein interdisziplinäres Labor«  
+Humboldt-Universität zu Berlin  
+Unter den Linden 6  
+10099 Berlin  
 
-[www.interdisciplinary-laboratory.hu-berlin.de](http://www.interdisciplinary-laboratory.hu-berlin.de)
-
-E-Mail: bwg.zeichen-und-symbole@hu-berlin.de
-
-[Logo Exzellenzcluster Bild Wissen Gestaltung](images/bwg.png)
+[www.interdisciplinary-laboratory.hu-berlin.de](http://www.interdisciplinary-laboratory.hu-berlin.de)  
+[bwg.zeichen-und-symbole@hu-berlin.de](mailto:bwg.zeichen-und-symbole@hu-berlin.de)
