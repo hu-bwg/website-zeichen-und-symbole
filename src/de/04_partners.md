@@ -22,8 +22,8 @@ language: de
 
 Cluster of Excellence »Image Knowledge Gestaltung. An Interdisciplinary Laboratory«
 Humboldt-Universität zu Berlin
-Sophienstr. 22a
-10178 Berlin
+Unter den Linden 6
+10099 Berlin
 Germany
 
 E-Mail: bwg.zeichen-und-symbole@hu-berlin.de
