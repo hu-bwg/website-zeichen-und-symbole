@@ -6,11 +6,11 @@ language: en
 
 ## Funded by:
 
-![Logo Exzellenzcluster Bild Wissen Gestaltung](../images/bwg.png){: width="248px"}
+[![Logo Exzellenzcluster Bild Wissen Gestaltung](../images/bwg.png){: width="248px"}](https://www.interdisciplinary-laboratory.hu-berlin.de)
 
 ## Partners:
 
-![Logo Hochschule Fresenius AMD](../images/amd.png){: width="248px" margin-right="10px"} ![Logo Netzwerk Mode Textil](../images/nmt.png){: width="248px"}
+[![Logo Hochschule Fresenius AMD](../images/amd.png){: width="248px" margin-right="10px"}](http://www.amdnet.de) <br />[![Logo Netzwerk Mode Textil](../images/nmt.png){: width="248px"}](http://www.netzwerk-mode-textil.de)
 
 ## Concept and Organization
 
