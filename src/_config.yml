@@ -1,5 +1,6 @@
 # Site settings
-title: Zeichen und Symbole
+title: Conf. Signs and Symbols. Dress at the Intersection between Image and Realia
+subtitle: Berlin, February 18–20, 2016
 email: bwg.zeichen-und-symbole@hu-berlin.de
 description: > # this means to ignore newlines until "baseurl:"
   TBA
@@ -12,4 +13,3 @@ markdown: kramdown
 
 kramdown:
   auto_ids: false
-  
