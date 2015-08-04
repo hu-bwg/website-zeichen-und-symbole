@@ -7,3 +7,4 @@ web:
     - VIRTUAL_HOST=zeichen-und-symbole.bwg.hu-berlin.de
   expose:
     - "80"
+# nak nak nak naak
