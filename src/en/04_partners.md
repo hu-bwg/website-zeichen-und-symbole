@@ -8,7 +8,7 @@ language: en
 
 ## Conference organized by
 
-[![Logo Exzellenzcluster Bild Wissen Gestaltung](../images/bwg.png){: width="248px"}](https://www.interdisciplinary-laboratory.hu-berlin.de)
+[![Logo Exzellenzcluster Bild Wissen Gestaltung](../images/bwg.jpg){: width="248px"}](https://www.interdisciplinary-laboratory.hu-berlin.de)
 
 ## In collaboration with
 
