@@ -38,7 +38,7 @@ visual representations. Research on the repertoire of sartorial symbolism relies
 What do these sources say about patterns of identification, ranging from distinction to conformity, within the context
 of normative behavioral codes? And how do they affect the symbolic meaning of dress from the following perspectives?
 
-### Norm and form 
+### Norm and form
 
 Clothing regulations, ceremonial records, and police regulations show that ruling authorities’ efforts to enforce social norms required the development of ever more, and increasingly differentiated regulations and penalties—not only in the area of clothing regulations and sumptuary laws but also for the governance of society as a whole. Taking this legal history perspective as a point of departure, the conference will focus on the causes and impacts of clothing regulations.
 
@@ -109,3 +109,5 @@ economists to present their diverse perspectives on the development and signific
 conference.
 
 The Call for Abstracts is closed.
+
+![Separator](../images/separator.png)

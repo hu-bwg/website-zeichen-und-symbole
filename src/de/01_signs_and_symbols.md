@@ -125,3 +125,5 @@ Soziologen, Textilforscher und -restauratoren ebenso wie Literaturwissenschaftle
 Wirtschaftswissenschaftler, ihren Blick auf die Entwicklung und Bedeutung von Mode und Bekleidung vorzustellen.
 
 Der Call for Abstracts ist beendet.
+
+![Separator](../images/separator.png)

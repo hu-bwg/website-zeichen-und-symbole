@@ -12,7 +12,8 @@ language: en
 
 ## In collaboration with
 
-[![Logo Hochschule Fresenius AMD](../images/amd.png){: width="248px" margin-right="10px"}](http://www.amdnet.de)  
+[![Logo Hochschule Fresenius AMD](../images/amd.png){: width="248px" margin-right="10px"}](http://www.amdnet.de)
+
 [![Logo Netzwerk Mode Textil](../images/nmt.png){: width="248px"}](http://www.netzwerk-mode-textil.de)
 
 ## Concept and Organization
