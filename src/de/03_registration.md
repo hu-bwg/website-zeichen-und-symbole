@@ -6,6 +6,6 @@ language: de
 
 # Anmeldung
 
-TBA
+In Vorbereitung
 
 ![Separator](../images/separator.png)

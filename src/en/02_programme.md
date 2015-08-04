@@ -6,6 +6,6 @@ language: en
 
 # Programme
 
-TBA
+Coming soon
 
 ![Separator](../images/separator.png)

@@ -6,6 +6,6 @@ language: en
 
 # Registration
 
-TBA
+Coming soon
 
 ![Separator](../images/separator.png)

@@ -4,9 +4,8 @@ title: Zeichen und Symbole
 language: de
 ---
 
-Der _Call for Papers_ ist beendet.
 
-# Zeichen und Symbole. 
+# Zeichen und Symbole.
 
 ## **Kleidung zwischen Bild und Realie.**
 
@@ -58,7 +57,7 @@ Veränderungen erfuhr die Pariser Mode des Absolutismus in den Nachbarländern, 
 im 17. Jahrhundert in den angrenzenden Ländern adaptiert oder welche Elemente der englischen Mode aus der zweiten
 Hälfte des 18. Jahrhunderts fanden Anwendung?
 
-### Hybridkleidung 
+### Hybridkleidung
 
 Es gilt, erhöhte Aufmerksamkeit den Bildgestaltern von Hybridkleidung zu widmen, die in vormoderner
 Malerei und Skulptur dezidiert unauthentische Vestimente arrangierten. In Antonis van Dycks Porträts etwa tragen Frauen
@@ -118,17 +117,11 @@ in der Wissenschaft uneinheitliche Neujustierungen erfuhr, die einer kritischen 
 Terrain der methodischen Unsicherheiten gilt es, Quellen (Bild- und Schriftquellen) und Objekte/Artefakte (Kleidung,
 Accessoires) zusammen zu führen und Wege ihrer Analyse und Deutung zu finden
 
-## Konzept und Organisation
 
-Prof. Dr. Philipp Zitzlsperger, Sabine de Günther M.A.  
+### Call for Abstracts
 
-E-Mail: [bwg.zeichen-und-symbole@hu-berlin.de](mailto:bwg.zeichen-und-symbole@hu-berlin.de)
+Eingeladen sind Kunst- und Bildwissenschaftler, Modewissenschaftler, Historiker, Kulturwissenschaftler, Archäologen,
+Soziologen, Textilforscher und -restauratoren ebenso wie Literaturwissenschaftler, Anthropologen, Juristen und
+Wirtschaftswissenschaftler, ihren Blick auf die Entwicklung und Bedeutung von Mode und Bekleidung vorzustellen.
 
-## Kontakt
-
-Exzellenzcluster »_Bild Wissen Gestaltung_. Ein interdisziplinäres Labor«  
-Humboldt-Universität zu Berlin,  
-Sophienstr. 22a  
-10178 Berlin  
-
-[interdisciplinary-laboratory.hu-berlin.de](http://www.interdisciplinary-laboratory.hu-berlin.de)  
+Der Call for Abstracts ist beendet.

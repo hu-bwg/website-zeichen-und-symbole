@@ -6,6 +6,6 @@ language: de
 
 # Programm
 
-TBA
+In Vorbereitung
 
 ![Separator](../images/separator.png)

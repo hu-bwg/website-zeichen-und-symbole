@@ -4,11 +4,9 @@ title: Signs and Symbols
 language: en
 ---
 
-The _call for papers_ is now closed.
+### Cluster of Excellence »Image Knowledge Gestaltung. An Interdisciplinary Laboratory«, Humboldt-Universität zu Berlin
 
-# Signs and Symbols. 
-
-## **Dress at the Intersection between Image and Realia.**
+# Signs and Symbols: Dress at the Intersection between Image and Realia
 
 ### Cluster of Excellence »Image Knowledge Gestaltung. An Interdisciplinary Laboratory«, Humboldt-Universität zu Berlin
 {: .header-line}
@@ -27,9 +25,7 @@ conference. “Cross-reading,” the juxtaposition of different source texts, re
 thorough knowledge of the different research disciplines. Common to all the disciplines engaged in dress research is the
 question of how to define and delineate the image-dress-fashion triad. In the framework of this multidisciplinary
 conference, we want to bring about a reflection on applied methods and, with it, a collective self-positioning of the
-disciplines with regard to dress.
-
-The overarching aim of the conference is to create synergies in the research on visual objects, dress, and accessories
+disciplines with regard to dress. The overarching aim of the conference is to create synergies in the research on visual objects, dress, and accessories
 by bringing together scholars from a range of disciplines in the humanities and empirical sciences whose research
 engages themes of dress and fashion. The focus of discussion will be on methodical and methodological questions
 surrounding the reconstruction of dress and its significance in visual and textual media.
@@ -105,17 +101,11 @@ orientations have been revised inconsistently in the scholarship over the last f
 reassessment. In this terrain of methodological uncertainties, it is important to bring together various sources (visual
 and textual material) and objects/artefacts (dress, accessories) and to find ways of analyzing and interpreting them.
 
-## Concept and Organization
+### Call for Abstracts
 
-Prof. Dr. Philipp Zitzlsperger, Sabine de Günther M.A.  
+We invite scholars in art history, visual culture, fashion, history, cultural studies, archaeology, sociology, and
+experts in textiles research and conservation, as well as literary scholars, anthropologists, legal scholars, and
+economists to present their diverse perspectives on the development and significance of fashion and dress at the
+conference.
 
-E-Mail: [bwg.zeichen-und-symbole@hu-berlin.de](mailto:bwg.zeichen-und-symbole@hu-berlin.de)
-
-## Contact
-
-Cluster of Excellence »_Image Knowledge Gestaltung_. An interdisciplinary Laboratory«  
-Humboldt-Universität zu Berlin  
-Sophienstrasse 22a  
-10178 Berlin  
-
-[interdisciplinary-laboratory.hu-berlin.de](http://www.interdisciplinary-laboratory.hu-berlin.de)
+The Call for Abstracts is closed.
