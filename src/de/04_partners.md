@@ -8,7 +8,7 @@ language: de
 
 ## Eine Tagung des
 
-[![Logo Exzellenzcluster Bild Wissen Gestaltung](../images/bwg.jpg){: width="248px"}](https://www.interdisciplinary-laboratory.hu-berlin.de)
+[![Logo Exzellenzcluster Bild Wissen Gestaltung](../images/bwg.jpg){: width="500px"}](https://www.interdisciplinary-laboratory.hu-berlin.de)
 
 ## Partner:
 
@@ -19,8 +19,8 @@ language: de
 
 ## Konzept und Organisation
 
-- Sabine de Günther M.A., Research Associate, »_Image Knowledge Gestaltung_. An Interdisciplinary Laboratory«
-- Prof. Dr. Philipp Zitzlsperger, Associate Member, »_Image Knowledge Gestaltung_. An Interdisciplinary Laboratory«
+Sabine de Günther M.A., Research Associate, »_Image Knowledge Gestaltung_. An Interdisciplinary Laboratory«
+Prof. Dr. Philipp Zitzlsperger, Associate Member, »_Image Knowledge Gestaltung_. An Interdisciplinary Laboratory«
 
 
 ## Kontakt
@@ -31,5 +31,5 @@ Unter den Linden 6
 10099 Berlin
 Germany
 
-[bwg.zeichen-und-symbole@hu-berlin.de](mailto:bwg.zeichen-und-symbole@hu-berlin.de)  
-[www.interdisciplinary-laboratory.hu-berlin.de](http://www.interdisciplinary-laboratory.hu-berlin.de)
+E-Mail: [bwg.zeichen-und-symbole@hu-berlin.de](mailto:bwg.zeichen-und-symbole@hu-berlin.de)  
+Webseite: [www.interdisciplinary-laboratory.hu-berlin.de](http://www.interdisciplinary-laboratory.hu-berlin.de)
