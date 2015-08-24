@@ -3,16 +3,11 @@ layout: page
 title: Zeichen und Symbole
 language: de
 ---
+### Exzellenzcluster »_Bild Wissen Gestaltung_. Ein interdisziplinäres Labor«, Humboldt-Universität zu Berlin
 
+# Zeichen und Symbole. Kleidung zwischen Bild und Reale
 
-# Zeichen und Symbole.
-
-## **Kleidung zwischen Bild und Realie.**
-
-### Exzellenzcluster »Bild Wissen Gestaltung. Ein interdisziplinäres Labor«,  Humboldt-Universität zu Berlin
-{: .header-line}
-
-### Berlin, 18. – 20. Februar 2016
+### Berlin, 18. – 21. Februar 2016
 {: .header-line}
 
 Die vestimentären Wissenschaften sind relativ jung und ihre Methoden oszillieren zwischen den Disziplinen der Bild-,
