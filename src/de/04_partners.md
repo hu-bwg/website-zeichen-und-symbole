@@ -19,17 +19,17 @@ language: de
 
 ## Konzept und Organisation
 
-Sabine de Günther M.A., Research Associate, »_Image Knowledge Gestaltung_. An Interdisciplinary Laboratory«
+Sabine de Günther M.A., Research Associate, »_Image Knowledge Gestaltung_. An Interdisciplinary Laboratory«  
 Prof. Dr. Philipp Zitzlsperger, Associate Member, »_Image Knowledge Gestaltung_. An Interdisciplinary Laboratory«
 
 
 ## Kontakt
 
-Cluster of Excellence »_Image Knowledge Gestaltung_. An Interdisciplinary Laboratory«
-Humboldt-Universität zu Berlin
-Unter den Linden 6
-10099 Berlin
-Germany
+Cluster of Excellence »_Image Knowledge Gestaltung_. An Interdisciplinary Laboratory«  
+Humboldt-Universität zu Berlin  
+Unter den Linden 6  
+10099 Berlin  
+Germany  
 
 E-Mail: [bwg.zeichen-und-symbole@hu-berlin.de](mailto:bwg.zeichen-und-symbole@hu-berlin.de)  
 Webseite: [www.interdisciplinary-laboratory.hu-berlin.de](http://www.interdisciplinary-laboratory.hu-berlin.de)
