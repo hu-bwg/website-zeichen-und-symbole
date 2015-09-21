@@ -5,7 +5,7 @@ language: de
 ---
 ### Exzellenzcluster »_Bild Wissen Gestaltung_. Ein interdisziplinäres Labor«, Humboldt-Universität zu Berlin
 
-# Zeichen und Symbole. Kleidung zwischen Bild und Reale
+# Zeichen und Symbole. Kleidung zwischen Bild und Realie
 
 ### Berlin, 18. – 21. Februar 2016
 {: .header-line}
