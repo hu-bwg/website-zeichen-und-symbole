@@ -4,31 +4,31 @@ title: Programme
 language: en
 ---
 
-# Programme
+# Programme 
 
 ## Keynote speaker
-Prof. Dr. Lou Taylor, Brighton
+Prof. Dr. Lou Taylor, University of Brighton
 
 ## Confirmed speakers
-Dr. Astrid Ackermann, Jena & Dr. Stefanie Freyer, Osnabrück  
-Guilia Galastro M.A., Cambridge  
-Wilm Grunwaldt M.A., Berlin  
-Prof. Dr. Karen Hearn, London  
+Dr. Astrid Ackermann, Friedrich-Schiller-Universität Jena & Dr. Stefanie Freyer, Universität Osnabrück  
+Guilia Galastro M.A., University of Cambridge  
+Wilm Grunwaldt M.A., Humboldt-Universität zu Berlin  
+Prof. Dr. Karen Hearn, University College London  
 Leoni Heeger M.A., Halle  
-Janine Jakob M.A., Zürich  
-Dr. des. Herbert Kopp-Oberstebrink, Berlin  
-Dr. William Kynan-Wilson, Aarhus   
-Dr. Mateusz Kapustka, Zürich  
-Dr. Tatjana Petzer, Berlin  & Dr. Martin Treml, Berlin  
-Dr. Johannes Pietsch, München  
-Prof. Dr. Marcia Pointon, Manchester  
-Anne K. Reimers M.A., Berlin  
-Prof. Dr. Aileen Ribeiro, London  
-Dr. Clare Rose, London  
-Barabara Schmelzer-Ziringer M.A., Berlin  
-Dr. Anne Söll, Bochum  
-Sarah van Dijk M.A., Leiden  
-Dr. Juliane von Fircks, Mainz  
-Dr. Thomas Weißbrich, Berlin  
+Janine Jakob M.A., Universität Zürich  
+Herbert Kopp-Oberstebrink M.A., Zentrum für Literatur- und Kulturforschung Berlin  
+Dr. William Kynan-Wilson, Universität Aalborg  
+Dr. Mateusz Kapustka, Universität Zürich  
+Dr. Tatjana Petzer, Berlin  & Dr. Martin Treml, Zentrum für Literatur- und Kulturforschung Berlin  
+Dr. Johannes Pietsch, Bayerisches Nationalmuseum, München  
+Prof. Dr. Marcia Pointon, University of Manchester  
+Anne K. Reimers M.A., University for the Creative Arts, Rochester/ University College London  
+Prof. Dr. Aileen Ribeiro, Courtauld Institute, London  
+Dr. Clare Rose, Royal School of Needlework London  
+Barbara Schmelzer-Ziringer M.A., Berlin  
+Prof. Dr. Anne Söll, Ruhr Universität Bochum  
+Dr. Sara van Dijk, Rijksmuseum Amsterdam  
+Dr. Juliane von Fircks, Johannes Gutenberg Universität Mainz  
+Dr. Thomas Weißbrich, Deutsches Historisches Museum, Berlin  
 
 ![Separator](../images/separator.png)
