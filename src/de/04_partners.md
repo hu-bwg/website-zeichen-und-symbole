@@ -22,6 +22,10 @@ language: de
 Sabine de Günther M.A., Research Associate, »_Image Knowledge Gestaltung_. An Interdisciplinary Laboratory«  
 Prof. Dr. Philipp Zitzlsperger, Associate Member, »_Image Knowledge Gestaltung_. An Interdisciplinary Laboratory«
 
+## Layout & Design
+
+Johannes Herseni, Interface Designer, »_Bild Wissen Gestaltung_. Ein interdisziplinäres Labor«     
+[http://johannesherseni.com](http://johannesherseni.com/)
 
 ## Kontakt
 
