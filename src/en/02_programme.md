@@ -7,7 +7,7 @@ language: en
 # Programme 
 
 ## Confirmed Speakers
-Prof. Dr. Lou Taylor (Keynote Speaker) // Dr. Astrid Ackermann // Dr. Stefanie Freyer // Giulia Galastro M.A. // Wilm Grunwaldt M.A. // Prof. Dr. Karen Hearn // Leoni Heeger M.A. // Janine Jakob M.A. // Herbert Kopp-Oberstebrink M.A. // Dr. William Kynan-Wilson // Dr. Mateusz Kapustka // Dr. Tatjana Petzer // Dr. Johannes Pietsch // Prof. Dr. Marcia Pointon // Anne K. Reimers M.A. // Prof. Dr. Aileen Ribeiro // Dr. Clare Rose // Barbara Schmelzer-Ziringer M.A. // Prof. Dr. Anne Söll // Dr. Martin Treml // Dr. Sara van Dijk //Dr. Juliane von Fircks // Dr. Thomas Weißbrich 
+Prof. Dr. Lou Taylor (Keynote Speaker) // Dr. Astrid Ackermann // Dr. Stefanie Freyer // Giulia Galastro M.A. // Wilm Grunwaldt M.A. // Prof. Dr. Karen Hearn // Leoni Heeger M.A. // Janine Jakob M.A. // Dr. Herbert Kopp-Oberstebrink // Dr. William Kynan-Wilson // Dr. Mateusz Kapustka // Dr. Tatjana Petzer // Dr. Johannes Pietsch // Prof. Dr. Marcia Pointon // Anne K. Reimers M.A. // Prof. Dr. Aileen Ribeiro // Dr. Clare Rose // Barbara Schmelzer-Ziringer M.A. // Prof. Dr. Anne Söll // Dr. Martin Treml // Dr. Sara van Dijk //Dr. Juliane von Fircks // Dr. Thomas Weißbrich 
 
  
 ## Programme
@@ -15,7 +15,8 @@ Prof. Dr. Lou Taylor (Keynote Speaker) // Dr. Astrid Ackermann // Dr. Stefanie F
 ### Thursday, 18th February 2016
 
 #### Keynote Lecture
-6 pm / Lou Taylor (University of Brighton): »Matter Over Mind and Mind Over Matter: Developments in the Study of Dress and Textile History – 1995-2015«
+6 pm / Horst Bredekamp (Cluster of Excellence »_Image Knowledge Gestaltung_. An Interdisciplinary Laboratory«): Introduction   
+6:15 pm / Lou Taylor (University of Brighton): »Matter Over Mind and Mind Over Matter: Developments in the Study of Dress and Textile History – 1995-2015«
 
 ### Friday, 19th February 2016
 
