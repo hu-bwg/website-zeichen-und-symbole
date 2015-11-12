@@ -7,14 +7,15 @@ language: de
 # Programm
 
 ## Bestätigte Sprecher
-Prof. Dr. Lou Taylor (Keynote Speaker) // Dr. Astrid Ackermann // Dr. Stefanie Freyer // Giulia Galastro M.A. // Wilm Grunwaldt M.A. // Prof. Dr. Karen Hearn // Leoni Heeger M.A. // Janine Jakob M.A. // Herbert Kopp-Oberstebrink M.A. // Dr. William Kynan-Wilson // Dr. Mateusz Kapustka // Dr. Tatjana Petzer // Dr. Johannes Pietsch // Prof. Dr. Marcia Pointon // Anne K. Reimers M.A. // Prof. Dr. Aileen Ribeiro // Dr. Clare Rose // Barbara Schmelzer-Ziringer M.A. // Prof. Dr. Anne Söll // Dr. Martin Treml // Dr. Sara van Dijk //Dr. Juliane von Fircks // Dr. Thomas Weißbrich
+Prof. Dr. Lou Taylor (Keynote Speaker) // Dr. Astrid Ackermann // Dr. Stefanie Freyer // Giulia Galastro M.A. // Wilm Grunwaldt M.A. // Prof. Dr. Karen Hearn // Leoni Heeger M.A. // Janine Jakob M.A. // Dr. Herbert Kopp-Oberstebrink // Dr. William Kynan-Wilson // Dr. Mateusz Kapustka // Dr. Tatjana Petzer // Dr. Johannes Pietsch // Prof. Dr. Marcia Pointon // Anne K. Reimers M.A. // Prof. Dr. Aileen Ribeiro // Dr. Clare Rose // Barbara Schmelzer-Ziringer M.A. // Prof. Dr. Anne Söll // Dr. Martin Treml // Dr. Sara van Dijk //Dr. Juliane von Fircks // Dr. Thomas Weißbrich
 
 ## Programm
 
 ### Donnerstag, 18. Februar 2016
 
 #### Keynote
-18:00 Uhr / Lou Taylor (University of Brighton): "Matter Over Mind and Mind Over Matter“: Entwicklungen in den Mode- und Textilwissenschaften – 1995-2015
+18:00 Uhr / Horst Bredekamp (Exzellenzcluster »_Image Knowledge Gestaltung_. An Interdisciplinary Laboratory«): Einführung   
+18:15 Uhr / Lou Taylor (University of Brighton): "Matter Over Mind and Mind Over Matter“: Entwicklungen in den Mode- und Textilwissenschaften – 1995-2015
 
 ### Freitag, 19. Februar 2016
 
