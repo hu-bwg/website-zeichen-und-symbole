@@ -15,7 +15,7 @@ Spandauer Str. 1
 
 *Tagung (Freitag, 19. Februar 2016 bis Sonntag, 21. Februar 2016)*   
 Humboldt Graduate School      
-**Festsaal*   
+*Festsaal*   
 Luisenstr. 56   
 10115 Berlin
 

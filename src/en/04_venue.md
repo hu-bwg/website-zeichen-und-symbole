@@ -15,7 +15,7 @@ Spandauer Str. 1
 
 *Conference (Friday, February 19th to Sunday, February 21st, 2016)*   
 Humboldt Graduate School      
-**Festsaal*   
+*Festsaal*   
 Luisenstr. 56   
 10115 Berlin
 
