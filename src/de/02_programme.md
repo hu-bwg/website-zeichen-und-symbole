@@ -7,7 +7,7 @@ language: de
 # Programm
 
 ## Bestätigte Sprecher
-Prof. Dr. Lou Taylor (Keynote Speaker) // Dr. Astrid Ackermann // Dr. Stefanie Freyer // Giulia Galastro M.A. // Wilm Grunwaldt M.A. // Prof. Dr. Karen Hearn // Leoni Heeger M.A. // Janine Jakob M.A. // Dr. Herbert Kopp-Oberstebrink // Dr. William Kynan-Wilson // Dr. Mateusz Kapustka // Dr. Tatjana Petzer // Dr. Johannes Pietsch // Prof. Dr. Marcia Pointon // Anne K. Reimers M.A. // Prof. Dr. Aileen Ribeiro // Dr. Clare Rose // Barbara Schmelzer-Ziringer M.A. // Prof. Dr. Anne Söll // Dr. Martin Treml // Dr. Sara van Dijk //Dr. Juliane von Fircks // Dr. Thomas Weißbrich
+Prof. Dr. Lou Taylor (Keynote Speaker) // Dr. Astrid Ackermann // Dr. Stefanie Freyer // Giulia Galastro M.A. // Wilm Grunwaldt M.A. // Prof. Dr. Karen Hearn // Leoni Heeger M.A. // Janine Jakob M.A. // Dr. Herbert Kopp-Oberstebrink // Dr. William Kynan-Wilson // Dr. Mateusz Kapustka // Dr. Tatjana Petzer // Dr. Johannes Pietsch // Prof. Dr. Marcia Pointon // Anne K. Reimers M.A. // Prof. Dr. Aileen Ribeiro // Dr. Clare Rose // Barbara Schmelzer-Ziringer M.A. // Prof. Dr. Änne Söll // Dr. Martin Treml // Dr. Sara van Dijk //Dr. Juliane von Fircks // Dr. Thomas Weißbrich
 
 ## Programm
 
@@ -39,7 +39,7 @@ Prof. Dr. Lou Taylor (Keynote Speaker) // Dr. Astrid Ackermann // Dr. Stefanie F
 
 #### Gender, Kleidermode und ihre visuelle Inszenierung
 16:30 Uhr / Barbara Schmelzer-Ziringer (Berlin): Modegeschichte als Machtgeschichte in Bildern. Zur Genese der vergeschlechtlichten bürgerlichen Silhouetten zur Zeit des höfischen Absolutismus   
-17:15 Uhr / Anne Söll (Ruhr-Universität Bochum): Tyrann oder Pantoffelheld? Die modische Ratgeberliteratur für Männer der 1920er Jahre und ihr Verhältnis zum neu-sachlichen Männerporträt   
+17:15 Uhr / Änne Söll (Ruhr-Universität Bochum): Tyrann oder Pantoffelheld? Die modische Ratgeberliteratur für Männer der 1920er Jahre und ihr Verhältnis zum neu-sachlichen Männerporträt   
 18:00 Uhr / Anne K. Reimers (University for the Creative Arts, Rochester/University College, London): Zeithaftigkeit, Stil und Modewörter in der deutschen Kunstkritik der 1920er Jahre
 
 ### Samstag, 20. Februar 2016
