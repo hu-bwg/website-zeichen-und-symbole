@@ -7,7 +7,7 @@ language: en
 # Programme 
 
 ## Confirmed Speakers
-Prof. Dr. Lou Taylor (Keynote Speaker) // Dr. Astrid Ackermann // Dr. Stefanie Freyer // Giulia Galastro M.A. // Wilm Grunwaldt M.A. // Prof. Dr. Karen Hearn // Leoni Heeger M.A. // Janine Jakob M.A. // Dr. Herbert Kopp-Oberstebrink // Dr. William Kynan-Wilson // Dr. Mateusz Kapustka // Dr. Tatjana Petzer // Dr. Johannes Pietsch // Prof. Dr. Marcia Pointon // Anne K. Reimers M.A. // Prof. Dr. Aileen Ribeiro // Dr. Clare Rose // Barbara Schmelzer-Ziringer M.A. // Prof. Dr. Anne Söll // Dr. Martin Treml // Dr. Sara van Dijk //Dr. Juliane von Fircks // Dr. Thomas Weißbrich 
+Prof. Dr. Lou Taylor (Keynote Speaker) // Dr. Astrid Ackermann // Dr. Stefanie Freyer // Giulia Galastro M.A. // Wilm Grunwaldt M.A. // Prof. Dr. Karen Hearn // Leoni Heeger M.A. // Janine Jakob M.A. // Dr. Herbert Kopp-Oberstebrink // Dr. William Kynan-Wilson // Dr. Mateusz Kapustka // Dr. Tatjana Petzer // Dr. Johannes Pietsch // Prof. Dr. Marcia Pointon // Anne K. Reimers M.A. // Prof. Dr. Aileen Ribeiro // Dr. Clare Rose // Barbara Schmelzer-Ziringer M.A. // Prof. Dr. Änne Söll // Dr. Martin Treml // Dr. Sara van Dijk // Dr. Juliane von Fircks // Dr. Thomas Weißbrich 
 
  
 ## Programme
@@ -40,7 +40,7 @@ Prof. Dr. Lou Taylor (Keynote Speaker) // Dr. Astrid Ackermann // Dr. Stefanie F
 
 #### Gender, fashion, and their visual performance
 4:30 pm / Barbara Schmelzer-Ziringer (Berlin): On the evolution of gendered bourgeois silhouettes in the age of courtly absolutism   
-5:15 pm / Anne Söll (Ruhr-Universität Bochum): Tyrant or henpecked husband? Fashion advice literature for men in the 1920s and its relation to New Objectivist image of masculinity   
+5:15 pm / Änne Söll (Ruhr-Universität Bochum): Tyrant or henpecked husband? Fashion advice literature for men in the 1920s and its relation to New Objectivist image of masculinity   
 6 pm / Anne K. Reimers (University for the Creative Arts, Rochester/University College, London): Temporality, Style and the Vocabulary of Fashion in 1920s German Arts Criticism
 
 ### Saturday, 20th February 2016
