@@ -6,6 +6,6 @@ language: de
 
 # Anmeldung
 
-In Vorbereitung
+[Hier](https://www.interdisciplinary-laboratory.hu-berlin.de/de/formular-anmeldung-tagung-zeichen-und-symbole-2015) können Sie sich für die Tagung anmelden.
 
 ![Separator](../images/separator.png)
