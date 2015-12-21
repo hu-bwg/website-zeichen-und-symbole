@@ -19,6 +19,10 @@ Humboldt Graduate School
 Luisenstr. 56   
 10115 Berlin
 
-*Notice: Unfortunately accessibility cannot be ensured within the facilities of Heilig-Geist-Kapelle. 
+<<<<<<< HEAD
+*Notice: Unfortunately accessibility cannot be provided at the facilities of Heilig-Geist-Kapelle. 
+=======
+*Unfortunately accessibility to Heilig-Geist-Kapelle is not provided.
+>>>>>>> master
 
 ![Separator](../images/separator.png)

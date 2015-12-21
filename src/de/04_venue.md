@@ -19,6 +19,10 @@ Humboldt Graduate School
 Luisenstr. 56   
 10115 Berlin
 
+<<<<<<< HEAD
 *Hinweis: Die Barrierefreiheit ist in der Heilig-Geist-Kapelle leider nicht gewährleistet.
+=======
+*Leider ist der Zugang zur Heilig-Geist-Kapelle nicht barrierefrei.
+>>>>>>> master
 
 ![Separator](../images/separator.png)
