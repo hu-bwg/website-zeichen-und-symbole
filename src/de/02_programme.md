@@ -9,12 +9,14 @@ language: de
 ## Bestätigte Sprecher
 Dr. Astrid Ackermann // Dr. Stefanie Freyer // Giulia Galastro M.A. // Wilm Grunwaldt M.A. // Prof. Dr. Karen Hearn // Leoni Heeger M.A. // Janine Jakob M.A. // Dr. Herbert Kopp-Oberstebrink // Dr. William Kynan-Wilson // Dr. Mateusz Kapustka // Dr. Tatjana Petzer // Dr. Johannes Pietsch // Prof. Dr. Marcia Pointon // Anne K. Reimers M.A. // Prof. Dr. Aileen Ribeiro // Dr. Clare Rose // Barbara Schmelzer-Ziringer M.A. // Prof. Dr. Änne Söll // Dr. Martin Treml // Dr. Sara van Dijk //Dr. Juliane von Fircks // Dr. Thomas Weißbrich
 
+## Tagungssprache
+Die Tagungssprachen sind deutsch und englisch. Deutsche Vorträge werden simultan ins Englische übersetzt. Im Tagungsprogramm sind die Vortragstitel an erster Stelle in der Sprache aufgeführt, in der sie gehalten werden.
 
 ## Programm
 
 ### Donnerstag, 18. Februar 2016
 
-#### Keynote
+#### Öffentlicher Abendvortrag
 18:00 Uhr / Horst Bredekamp (Exzellenzcluster »*Image Knowledge Gestaltung*. An Interdisciplinary Laboratory«): Einführung   
 18:15 Uhr / Aileen Ribeiro (Courtauld Institute of Art, London): How real is dress in art? | *Wie real ist Kleidung im Bild?*
 
