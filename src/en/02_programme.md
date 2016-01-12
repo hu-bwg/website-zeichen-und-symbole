@@ -8,7 +8,8 @@ language: en
 
 ## Confirmed Speakers
 Dr. Astrid Ackermann // Dr. Stefanie Freyer // Giulia Galastro M.A. // Wilm Grunwaldt M.A. // Prof. Dr. Karen Hearn // Leoni Heeger M.A. // Janine Jakob M.A. // Dr. Herbert Kopp-Oberstebrink // Dr. William Kynan-Wilson // Dr. Mateusz Kapustka // Dr. Tatjana Petzer // Dr. Johannes Pietsch // Prof. Dr. Marcia Pointon // Anne K. Reimers M.A. // Prof. Dr. Aileen Ribeiro // Dr. Clare Rose // Barbara Schmelzer-Ziringer M.A. // Prof. Dr. Änne Söll // Dr. Martin Treml // Dr. Sara van Dijk // Dr. Juliane von Fircks // Dr. Thomas Weißbrich 
-
+## Conference language
+Presentations will be held in German and English. The papers in German will be translated simultaneously into English. In the Programme the title in the first place indicates the language in which the presentation will be held.
  
 ## Programme
 
@@ -20,7 +21,7 @@ Dr. Astrid Ackermann // Dr. Stefanie Freyer // Giulia Galastro M.A. // Wilm Grun
 
 ### Friday, 19th February 2016
 
-9:30 am Uhr / *Registration, Welcome Coffee*
+9:30 am / *Registration, Welcome Coffee*
 
 #### Dress-Images as a Heuristic Problem
 10:15 am / William Kynan-Wilson (Aalborg Universitet): Limitations and possibilities – Ottoman costume albums as sources of clothing | *Grenzen und Möglichkeiten – Osmanische Trachtenbücher als Kleiderquellen*
