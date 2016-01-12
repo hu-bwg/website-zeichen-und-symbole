@@ -21,4 +21,7 @@ Luisenstr. 56
 
 *Unfortunately accessibility to Heilig-Geist-Kapelle is not provided.
 
+<a href="../files/Conf_GettingHere_Web.pdf" class="download">↓ How to get there</a><br>
+<a href = "../files/Conf_GettingAround_Web.pdf" class="download">↓ How to get around</a>
+
 ![Separator](../images/separator.png)

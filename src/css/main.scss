@@ -171,6 +171,16 @@ h4 {
   color: #999;
 }
 
+a.download {
+  font-family: "futura-pt";
+  font-weight: 700;
+  text-transform: uppercase; 
+}
+
+a.download:hover {
+  text-decoration: none;
+}
+
 .page-content {
     max-width: 800px;
     margin: auto;

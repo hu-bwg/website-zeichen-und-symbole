@@ -21,4 +21,7 @@ Luisenstr. 56
 
 *Leider ist der Zugang zur Heilig-Geist-Kapelle nicht barrierefrei.
 
+<a href="../files/Conf_GettingHere_Web.pdf" class="download">↓ Informationen zur Anreise (Engl.)</a><br>
+<a href = "../files/Conf_GettingAround_Web.pdf" class="download">↓ Informationen zur Orientierung in Berlin (Engl.)</a>
+
 ![Separator](../images/separator.png)

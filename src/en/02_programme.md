@@ -73,4 +73,6 @@ Dr. Astrid Ackermann // Dr. Stefanie Freyer // Giulia Galastro M.A. // Wilm Grun
 10:45 am / Herbert Kopp-Oberstebrink (Zentrum für Literatur- und Kulturforschung, Berlin): Von der Culotte zum "existenziellen Anzug", vom Hof in die akademische Welt. Stationen in der Karriere der Kniebundhose | *From the culotte to the "existential suit", from the court to academia. Stations in the career of knee-lenght trousers*   
 11:30 am / Mateusz Kapustka (Universität Zürich): Clothes for the Mission | *Kleidung für die Mission*    
 
+<a href="../files/Conf_Presenters_Web.pdf" class="download">↓ Biographies of Presenters</a>
+
 ![Separator](../images/separator.png)

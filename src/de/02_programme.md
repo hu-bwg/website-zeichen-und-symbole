@@ -75,4 +75,6 @@ Die Tagungssprachen sind deutsch und englisch. Deutsche Vorträge werden simulta
 10:45 Uhr / Herbert Kopp-Oberstebrink (Zentrum für Literatur- und Kulturforschung, Berlin): Von der Culotte zum "existenziellen Anzug", vom Hof in die akademische Welt. Stationen in der Karriere der Kniebundhose | *From the culotte to the "existential suit", from the court to academia. Stations in the career of knee-lenght trousers*   
 11:30 Uhr / Mateusz Kapustka (Universität Zürich): Clothes for the Mission | *Kleidung für die Mission*    
 
+<a href="../files/Conf_Presenters_Web.pdf" class="download">↓ Kurzbiographien der Präsentierenden</a>
+
 ![Separator](../images/separator.png)
