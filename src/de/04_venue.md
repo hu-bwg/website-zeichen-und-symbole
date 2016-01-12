@@ -11,8 +11,8 @@ language: de
 ## Keynote und Eröffnungsempfang (Donnerstag, 18. Februar 2016)   
 Heilig-Geist-Kapelle    
 Spandauer Str. 1   
-10178 Berlin
-*Der Zugang zur Heilig-Geist-Kapelle ist nicht barrierefrei.*
+10178 Berlin 
+(Der Zugang zur Heilig-Geist-Kapelle ist nicht barrierefrei)
 
 ## Tagung (Freitag, 19. Februar 2016 bis Sonntag, 21. Februar 2016)  
 Humboldt Graduate School, *Festsaal*   
