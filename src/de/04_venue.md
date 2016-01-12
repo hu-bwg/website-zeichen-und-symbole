@@ -12,13 +12,12 @@ language: de
 Heilig-Geist-Kapelle*      
 Spandauer Str. 1   
 10178 Berlin
+_*Der Zugang zur Heilig-Geist-Kapelle ist nicht barrierefrei._
 
 ## Tagung (Freitag, 19. Februar 2016 bis Sonntag, 21. Februar 2016)  
 Humboldt Graduate School, *Festsaal*   
 Luisenstr. 56   
 10115 Berlin
-
-*Der Zugang zur Heilig-Geist-Kapelle ist nicht barrierefrei.
 
 <a href="../files/Conf_GettingHere_Web.pdf" class="download">↓ Informationen zur Anreise (Engl.)</a><br>
 <a href = "../files/Conf_GettingAround_Web.pdf" class="download">↓ Informationen zur Orientierung in Berlin (Engl.)</a>
