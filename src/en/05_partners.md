@@ -6,11 +6,11 @@ language: en
 
 # Partners
 
-## Conference organized by
+## A Conference organized by the Cluster of Excellence _Image Knowledge Gestaltung_. An Interdisciplinary Laboratory and funded by Deutsche Forschungsgemeinschaft
 
 [![Logo Exzellenzcluster Bild Wissen Gestaltung](../images/bwg.jpg){: width="500px"}](https://www.interdisciplinary-laboratory.hu-berlin.de)
 
-## In collaboration with
+## Partners
 
 [![Logo Hochschule Fresenius AMD](../images/amd.png){: width="248px" margin-right="10px"}](http://www.amdnet.de)
 
@@ -32,7 +32,6 @@ Cluster of Excellence »_Image Knowledge Gestaltung_. An Interdisciplinary Labor
 Humboldt-Universität zu Berlin  
 Unter den Linden 6  
 10099 Berlin  
-Germany  
 
 E-Mail: [bwg.zeichen-und-symbole@hu-berlin.de](mailto:bwg.zeichen-und-symbole@hu-berlin.de)  
 Web: [www.interdisciplinary-laboratory.hu-berlin.de](http://www.interdisciplinary-laboratory.hu-berlin.de)
