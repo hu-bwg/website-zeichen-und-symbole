@@ -14,12 +14,11 @@ Spandauer Str. 1
 10178 Berlin
 
 *Tagung (Freitag, 19. Februar 2016 bis Sonntag, 21. Februar 2016)*   
-Humboldt Graduate School      
-*Festsaal*   
+Humboldt Graduate School, *Festsaal*   
 Luisenstr. 56   
 10115 Berlin
 
-*Leider ist der Zugang zur Heilig-Geist-Kapelle nicht barrierefrei.
+*Der Zugang zur Heilig-Geist-Kapelle ist nicht barrierefrei.
 
 <a href="../files/Conf_GettingHere_Web.pdf" class="download">↓ Informationen zur Anreise (Engl.)</a><br>
 <a href = "../files/Conf_GettingAround_Web.pdf" class="download">↓ Informationen zur Orientierung in Berlin (Engl.)</a>
