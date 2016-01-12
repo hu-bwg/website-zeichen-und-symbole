@@ -12,7 +12,7 @@ language: en
 Heilig-Geist-Kapelle     
 Spandauer Str. 1   
 10178 Berlin
-_Unfortunately accessibility to Heilig-Geist-Kapelle is not provided._
+*Unfortunately accessibility to Heilig-Geist-Kapelle is not provided.*
 
 ## Conference (Friday, Feb. 19th to Sunday, Feb. 21st, 2016)   
 Humboldt Graduate School, *Festsaal*   
