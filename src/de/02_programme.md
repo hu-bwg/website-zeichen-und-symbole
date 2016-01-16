@@ -16,7 +16,7 @@ Die Tagungssprachen sind deutsch und englisch. Deutsche Vorträge werden simulta
 
 ### Donnerstag, 18. Februar 2016
 
-#### Öffentlicher Abendvortrag
+#### Eröffnungsvortrag und Empfang
 18:00 Uhr / Horst Bredekamp (Exzellenzcluster »*Image Knowledge Gestaltung*. An Interdisciplinary Laboratory«): Introduction  |  *Einführung*   
 18:15 Uhr / Aileen Ribeiro (Courtauld Institute of Art, London): How real is dress in art? | *Wie real ist Kleidung im Bild?*
 
