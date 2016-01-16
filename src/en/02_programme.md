@@ -15,7 +15,7 @@ Presentations will be held in German and English. The papers in German will be t
 
 ### Thursday, 18th February 2016
 
-#### Keynote Lecture
+#### Keynote Lecture and Reception
 6 pm / Horst Bredekamp (Exzellenzcluster »*Image Knowledge Gestaltung*. An Interdisciplinary Laboratory«): Introduction   
 6:15 pm / Aileen Ribeiro (Courtauld Institute of Art, London): How real is dress in art? | *Wie real ist Kleidung im Bild?*
 
