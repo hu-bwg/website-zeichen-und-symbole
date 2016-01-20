@@ -19,7 +19,7 @@ language: en
 ## Concept and Organization
 
 Sabine de Günther M.A., Research Associate, »_Image Knowledge Gestaltung_. An Interdisciplinary Laboratory«  
-Prof. Dr. Philipp Zitzlsperger, Hochschule Fresenius, Special field Design (AMD) - Associate Member, »_Image Knowledge Gestaltung_. An Interdisciplinary Laboratory«
+Prof. Dr. Philipp Zitzlsperger, Hochschule Fresenius, Special field Design (AMD) - Associate Member, »_Image Knowledge Gestaltung_. An Interdisciplinary Laboratory«  
 Davide Ferri, Assitent, »_Image Knowledge Gestaltung_. An Interdisciplinary Laboratory«  
 
 ## Layout & Design
