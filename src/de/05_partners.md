@@ -22,6 +22,7 @@ language: de
 
 Sabine de Günther M.A., Wissenschaftliche Mitarbeiterin, »_Bild Wissen Gestaltung_. Ein interdisziplinäres Labor«  
 Prof. Dr. Philipp Zitzlsperger, Hochschule Fresenius, Fachbereich Design (AMD) - Associate Member, »_Bild Wissen Gestaltung_. Ein interdisziplinäres Labor«
+Davide Ferri, Assistent, »_Bild Wissen Gestaltung_. Ein interdisziplinäres Labor«   
 
 ## Layout & Design
 
