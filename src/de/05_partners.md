@@ -6,7 +6,7 @@ language: de
 
 # Partner
 
-## Eine Tagung des Exzellenzclusters *Bild Wissen Gestaltung*. Ein interdisziplinäres Labor
+## Eine Tagung des Exzellenzclusters »*Bild Wissen Gestaltung*. Ein interdisziplinäres Labor«
 
 [![Logo Exzellenzcluster Bild Wissen Gestaltung](../images/bwg.jpg){: width="500px"}](https://www.interdisciplinary-laboratory.hu-berlin.de)
 
@@ -22,7 +22,7 @@ language: de
 
 Sabine de Günther M.A., Wissenschaftliche Mitarbeiterin, »_Bild Wissen Gestaltung_. Ein interdisziplinäres Labor«  
 Prof. Dr. Philipp Zitzlsperger, Hochschule Fresenius, Fachbereich Design (AMD) - Associate Member, »_Bild Wissen Gestaltung_. Ein interdisziplinäres Labor«  
-Davide Ferri, Assistent, »_Bild Wissen Gestaltung_. Ein interdisziplinäres Labor«  
+Davide Ferri B.A., Studentische Hilfskraft, »_Bild Wissen Gestaltung_. Ein interdisziplinäres Labor«  
 
 ## Layout & Design
 
