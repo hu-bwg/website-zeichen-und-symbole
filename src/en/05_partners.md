@@ -6,7 +6,7 @@ language: en
 
 # Partners
 
-## A Conference organized by the Cluster of Excellence _Image Knowledge Gestaltung_. An Interdisciplinary Laboratory and funded by Deutsche Forschungsgemeinschaft
+## A Conference organized by the Cluster of Excellence »_Image Knowledge Gestaltung_. An Interdisciplinary Laboratory« and funded by German Research Foundation (DFG)
 
 [![Logo Exzellenzcluster Bild Wissen Gestaltung](../images/bwg.jpg){: width="500px"}](https://www.interdisciplinary-laboratory.hu-berlin.de)
 
@@ -20,7 +20,7 @@ language: en
 
 Sabine de Günther M.A., Research Associate, »_Image Knowledge Gestaltung_. An Interdisciplinary Laboratory«  
 Prof. Dr. Philipp Zitzlsperger, Hochschule Fresenius, Special field Design (AMD) - Associate Member, »_Image Knowledge Gestaltung_. An Interdisciplinary Laboratory«  
-Davide Ferri, Assitent, »_Image Knowledge Gestaltung_. An Interdisciplinary Laboratory«  
+Davide Ferri B.A., Assitant, »_Image Knowledge Gestaltung_. An Interdisciplinary Laboratory«  
 
 ## Layout & Design
 
