@@ -11,6 +11,8 @@ language: en
 ### Berlin, February 18 — 21, 2016
 {: .header-line}
 
+<a href="../files/flyer.pdf" class="download">↓ Download Programme</a>
+
 Dress research is a relatively young academic discipline and its methods are dynamic, drawing from the fields of visual
 studies, linguistics, and cultural studies, and alternating between detailed empirical analysis of material culture and
 its interpretation. Fashion in images (painting, printmaking, photography, sculpture) and in written works are typically
