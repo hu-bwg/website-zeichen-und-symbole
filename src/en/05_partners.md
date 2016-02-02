@@ -36,3 +36,5 @@ Unter den Linden 6
 
 E-Mail: [bwg.zeichen-und-symbole@hu-berlin.de](mailto:bwg.zeichen-und-symbole@hu-berlin.de)  
 Web: [www.interdisciplinary-laboratory.hu-berlin.de](http://www.interdisciplinary-laboratory.hu-berlin.de)
+
+Picture credits: SMB, Kunstbibliothek, Sammlung-Modebild 
