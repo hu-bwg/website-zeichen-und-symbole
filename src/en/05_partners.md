@@ -34,7 +34,6 @@ Humboldt-Universität zu Berlin
 Unter den Linden 6  
 10099 Berlin  
 
-E-Mail: [bwg.zeichen-und-symbole@hu-berlin.de](mailto:bwg.zeichen-und-symbole@hu-berlin.de)  
-Web: [www.interdisciplinary-laboratory.hu-berlin.de](http://www.interdisciplinary-laboratory.hu-berlin.de)
+E-Mail: [bwg.zeichen-und-symbole@hu-berlin.de](mailto:deguents@hu-berlin.de)  
 
 Picture credits: SMB, Kunstbibliothek, Sammlung-Modebild 
