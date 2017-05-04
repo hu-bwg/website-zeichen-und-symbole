@@ -1,13 +1,16 @@
 ---
 layout: page
-title: Registration
+title: Publication
 language: en
 ---
 
-# Registration
+# Conference publication
 
-We kindly ask for a binding, free registration. Registration closes on 16-02-2016.   
+The conference proceedings will be published in autumn 2017. 
+
+"Signs and Symbols - Dress at the Intersection between Image and Realia" 
+Ed. by de Günther, Sabine / Zitzlsperger, Philipp
    
-Our partner hotel _BestWestern Berlin-Mitte_ (Albrechtstraße 25, 10117 Berlin) will provide single rooms for conference participants from Thursday, Feb. 17th to Sunday, Feb. 21st. The hotel is located in close proximity to the conference venue (Humboldt Graduate School) and guarantees a special price of € 82.00 per night incl. breakfast (single room). Please get in contact directly with the hotel for a reservation via e-mail (reservation@agon-group.com), fax (+49-030-214802891) or by phone (+49-030-214802828); please give the booking code _Bild Wissen Gestaltung_. More information on the hotel can be found  [here](https://www.bestwestern.de/hotels/Berlin/BEST-WESTERN-Hotel-Berlin-Mitte/).
+-> [DE GRUYTER](https://www.degruyter.com/view/product/479831?rskey=TdDwm1&result=4)
 
 ![Separator](../images/separator.png)
